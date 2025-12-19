@@ -112,7 +112,7 @@ Each folder contains:
 
 ```bash
 # Clone this repository
-git clone https://github.com/0xsayandip/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp.git
+git clone https://github.com/sayandipcodes/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp.git
 
 # Navigate to a specific day's folder
 cd "Day 05"
@@ -125,7 +125,7 @@ python main.py
 
 ## 👨‍💻 Author
 
-**Sayandip Manna ([@0xsayandip](https://github.com/0xsayandip))**
+**Sayandip Manna ([@sayandipcodes](https://github.com/sayandipcodes))**
 
 I’m a passionate learner exploring the world of programming, web development, and AI.  
 Currently on my journey to complete the **100 Days of Code – Python Bootcamp by Angela Yu**,  
@@ -133,9 +133,9 @@ building projects, learning daily, and sharing my progress.
 
 📫 **Connect with me:**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/0xsayandip/)
-- 🐦 [Twitter / X](https://twitter.com/0xsayandip)
-- 🧑‍💻 [GitHub](https://github.com/0xsayandip)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sayandipmanna/)
+- 🐦 [Twitter / X](https://twitter.com/sayanxdev)
+- 🧑‍💻 [GitHub](https://github.com/sayandipcodes)
 
 ---
 
