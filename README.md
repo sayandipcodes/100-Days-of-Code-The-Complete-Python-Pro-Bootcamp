@@ -134,7 +134,7 @@ building projects, learning daily, and sharing my progress.
 📫 **Connect with me:**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sayandipmanna/)
-- 🐦 [Twitter / X](https://twitter.com/sayanxdev)
+- 🐦 [Twitter / X](https://twitter.com/sayandotcode)
 - 🧑‍💻 [GitHub](https://github.com/sayandipcodes)
 
 ---
